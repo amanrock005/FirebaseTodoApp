@@ -33,3 +33,11 @@ You can try the app live here:
 # home page
 
 ![Login Image](docImg/homepage.PNG)
+
+# add todo
+
+![Login Image](docImg/add.PNG)
+
+# update todo
+
+![Login Image](docImg/update.PNG)
